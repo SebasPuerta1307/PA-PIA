@@ -5,8 +5,6 @@ PROYECTO FINAL GESTOR DE PA/PIA
 ### Sebastian Puerta
 ### Luis Miguel Sosa
 # INSTRUCCIONES DE INSTALACIÓN, CONFIGURACIÓN Y ARRANQUE DEL PROYECTO
-Bienvenidos a una experiencia Laravel!
-
 1.- Ubicarse en una carpeta en el disco local
 2.- Clonar el proyecto: git clone https://github.com/SebasPuerta1307/PA-PIA.git
 3.- Abrir la carpeta: "cd PA-PIA"
